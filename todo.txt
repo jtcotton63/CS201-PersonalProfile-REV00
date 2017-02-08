@@ -1,0 +1,8 @@
+Fix nav bar
+Add angular ng-repeat directive
+Design work experience section basec on data returned
+Fill out sections
+	pictures (does this need to turn into a small picture?)
+	about me
+	work experience
+	contact
